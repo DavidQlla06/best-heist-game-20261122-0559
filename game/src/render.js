@@ -234,6 +234,11 @@ export function createRenderer(canvas) {
       context.arc(t.target.x, t.target.y, 8, 0, Math.PI * 2);
       context.stroke();
     }
+    // Soft shadow under the thief so the figure reads against the floor tiles.
+    context.fillStyle = 'rgba(0,0,0,0.35)';
+    context.beginPath();
+    context.ellipse(t.x + 3, t.y + 5, THIEF.radius, THIEF.radius * 0.62, 0, 0, Math.PI * 2);
+    context.fill();
     context.fillStyle = state.seen ? '#ff8a7a' : '#ffd166';
     context.beginPath();
     context.arc(t.x, t.y, THIEF.radius, 0, Math.PI * 2);
