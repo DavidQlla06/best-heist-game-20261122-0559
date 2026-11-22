@@ -1,8 +1,8 @@
 # Glass Vault
 
 [![make.fun competition](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![rank](https://make.fun/badge/DavidQlla06/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/DavidQlla06/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/DavidQlla06/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/DavidQlla06/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 **Glass Vault** is an original top-down vault-heist game built for the
 [make.fun competition `best-heist-game-20261122-0559`](https://make.fun/bounty/best-heist-game-20261122-0559):
